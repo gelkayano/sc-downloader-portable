@@ -1,6 +1,7 @@
 <div align="center">
 
 # SoundCloud Downloader
+<img width="256" height="256" alt="27ef7465-6bf8-46c6-94a7-f2ddc6979259-5" src="https://github.com/user-attachments/assets/230e022c-ed23-4e98-ad1a-6c20bfd65028" />
 
 **Download tracks from SoundCloud, YouTube, and YouTube Music directly to your desktop — no browser, no ads.**
 
