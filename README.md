@@ -4,7 +4,7 @@
 
 # SoundCloud Downloader
 
-**Download tracks from SoundCloud, YouTube, and YouTube Music directly to your desktop.**
+**Download tracks from SoundCloud directly to your desktop.**
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
@@ -15,7 +15,7 @@
 
 ## Features
 
-**Download** — paste a track link from SoundCloud, YouTube, or YouTube Music, hit Download. That's it.
+**Download** — paste a track link from SoundCloud and hit Download. That's it.
 
 **Monitor** — add artists to a watchlist, click Check — the app finds their new tracks from the last N days and downloads them automatically. Already downloaded tracks are skipped via an archive file.
 
@@ -96,8 +96,7 @@ Needed if SoundCloud starts returning 403 errors. The token is tied to your acco
 | Source | Single track | Artist monitor |
 |---|---|---|
 | SoundCloud | ✅ | ✅ |
-| YouTube | ✅ | ❌ |
-| YouTube Music | ✅ | ❌ |
+| Coming soon | ❌ | ❌ |
 
 ---
 
