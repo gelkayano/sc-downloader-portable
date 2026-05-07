@@ -1,4 +1,6 @@
 <div align="center">
+<img width="128" height="128" alt="27ef7465-6bf8-46c6-94a7-f2ddc6979259-4" src="https://github.com/user-attachments/assets/a4acb76e-8280-4dba-af68-1c82eefad332" />
+
 
 # SoundCloud Downloader
 
