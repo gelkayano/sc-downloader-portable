@@ -1,4 +1,4 @@
-<div align="center">
+<img width="739" height="675" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9bce7958-c949-48dc-8030-80dec7fe9e80" /><div align="center">
 <img width="128" height="128" alt="27ef7465-6bf8-46c6-94a7-f2ddc6979259-4" src="https://github.com/user-attachments/assets/a4acb76e-8280-4dba-af68-1c82eefad332" />
 
 
@@ -24,6 +24,13 @@
 **OAuth token** — if SoundCloud starts rate-limiting requests, set your personal token for stable operation.
 
 Output format: **MP3** with embedded cover art and metadata (artist, title, date).
+
+---
+
+## Screenshots
+<img width="740" height="676" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cd36894d-ab2b-4d5d-82e6-c951b1881f81" />
+<img width="738" height="674" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bf1be00b-a04e-47b4-9679-034ed9db64ee" />
+<img width="739" height="675" alt="Screenshot_3" src="https://github.com/user-attachments/assets/63fee8ea-7399-4c43-b4cc-ec0a3cbf6452" />
 
 ---
 
