@@ -91,16 +91,6 @@ Needed if SoundCloud starts returning 403 errors. The token is tied to your acco
 
 ---
 
-## Build from source
-
-Requirements: Python 3.10+, `ffmpeg.exe` placed in the project folder.
-
-```bash
-pip install pyinstaller yt-dlp customtkinter pillow
-python create_icon.py
-build.bat
-```
-
 The built executable will appear in `dist\SoundCloud Downloader\`.
 
 ---
