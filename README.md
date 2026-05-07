@@ -4,7 +4,7 @@
 
 # SoundCloud Downloader
 
-**Download tracks from SoundCloud, YouTube, and YouTube Music directly to your desktop — no browser, no ads.**
+**Download tracks from SoundCloud, YouTube, and YouTube Music directly to your desktop.**
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
