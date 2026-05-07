@@ -1,6 +1,6 @@
 <div align="center">
 
-## SoundCloud Downloader
+# SoundCloud Downloader
 
 **Download tracks from SoundCloud, YouTube, and YouTube Music directly to your desktop — no browser, no ads.**
 
