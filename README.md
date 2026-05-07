@@ -40,8 +40,20 @@ Output format: **MP3** with embedded cover art and metadata (artist, title, date
 1. Download the archive from [Releases](../../releases/latest)
 2. Extract to any folder
 3. Run `SoundCloud Downloader.exe`
-
-> **ffmpeg is already bundled** — no additional setup required.
+> **If you are from Russia, use together with [zapret](https://github.com/Flowseal/zapret-discord-youtube)
+> Add the following domains to ```list-general.txt```:
+```soundcloud.com
+a-v2.sndcdn.com
+style.sndcdn.com
+assets.web.soundcloud.cloud
+i1.sndcdn.com
+al.sndcdn.com
+va.sndcdn.com
+wave.sndcdn.com
+playback.media-streaming.soundcloud.cloud
+cf-hls-media.sndcdn.com
+license.media-streaming.soundcloud.cloud**
+```
 
 ---
 
