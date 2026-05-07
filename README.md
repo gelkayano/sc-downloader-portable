@@ -41,7 +41,7 @@ Output format: **MP3** with embedded cover art and metadata (artist, title, date
 2. Extract to any folder
 3. Run `SoundCloud Downloader.exe`
 > **If you are from Russia, use together with [zapret](https://github.com/Flowseal/zapret-discord-youtube)
-> Add the following domains to** ```list-general.txt```:
+and Add the following domains to** ```list-general.txt```:
 ```soundcloud.com
 a-v2.sndcdn.com
 style.sndcdn.com
