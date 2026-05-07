@@ -2,7 +2,7 @@
 
 # SoundCloud Downloader
 
-**Download tracks from SoundCloud and YouTube directly to your desktop — no browser, no ads.**
+**Download tracks from SoundCloud, YouTube, and YouTube Music directly to your desktop — no browser, no ads.**
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
@@ -13,7 +13,7 @@
 
 ## Features
 
-**Download** — paste a track link, hit Download. That's it.
+**Download** — paste a track link from SoundCloud, YouTube, or YouTube Music, hit Download. That's it.
 
 **Monitor** — add artists to a watchlist, click Check — the app finds their new tracks from the last N days and downloads them automatically. Already downloaded tracks are skipped via an archive file.
 
