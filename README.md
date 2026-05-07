@@ -1,6 +1,4 @@
-<img width="739" height="675" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9bce7958-c949-48dc-8030-80dec7fe9e80" /><div align="center">
-<img width="128" height="128" alt="27ef7465-6bf8-46c6-94a7-f2ddc6979259-4" src="https://github.com/user-attachments/assets/a4acb76e-8280-4dba-af68-1c82eefad332" />
-
+<div align="center">
 
 # SoundCloud Downloader
 
