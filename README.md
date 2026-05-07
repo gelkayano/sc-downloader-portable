@@ -28,9 +28,9 @@ Output format: **MP3** with embedded cover art and metadata (artist, title, date
 ---
 
 ## Screenshots
-<img width="740" height="676" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cd36894d-ab2b-4d5d-82e6-c951b1881f81" />
-<img width="738" height="674" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bf1be00b-a04e-47b4-9679-034ed9db64ee" />
-<img width="739" height="675" alt="Screenshot_3" src="https://github.com/user-attachments/assets/63fee8ea-7399-4c43-b4cc-ec0a3cbf6452" />
+<img width="370" height="338" alt="Screenshot_1" src="https://github.com/user-attachments/assets/cd36894d-ab2b-4d5d-82e6-c951b1881f81" />
+<img width="369" height="337" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bf1be00b-a04e-47b4-9679-034ed9db64ee" />
+<img width="370" height="338" alt="Screenshot_3" src="https://github.com/user-attachments/assets/63fee8ea-7399-4c43-b4cc-ec0a3cbf6452" />
 
 ---
 
