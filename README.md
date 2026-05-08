@@ -62,7 +62,6 @@ license.media-streaming.soundcloud.cloud**
 ```
 SoundCloud Downloader/
 ├── SoundCloud Downloader.exe
-├── ffmpeg.exe                  ← bundled
 ├── Downloads/                  ← tracks saved here
 │   └── ArtistName/
 │       └── 20250501 - Track Title.mp3
