@@ -551,7 +551,7 @@ class App(ctk.CTk):
         btn_frame.pack(fill="x", padx=12, pady=6)
 
         self.download_btn = ctk.CTkButton(
-            btn_frame, text="Download MP3", height=48,
+            btn_frame, text="Download", height=48,
             font=("Segoe UI", 15, "bold"), fg_color="#ffffff", hover_color="#cccccc",
             text_color="#000000", corner_radius=8, command=self._start_download,
         )
@@ -713,7 +713,7 @@ class App(ctk.CTk):
         monitor_btn_frame.pack(fill="x", padx=12, pady=6)
 
         self.check_btn = ctk.CTkButton(
-            monitor_btn_frame, text="🔍 Check All Artists", height=48,
+            monitor_btn_frame, text="Check All Artists", height=48,
             font=("Segoe UI", 14, "bold"), fg_color="#ffffff", hover_color="#cccccc",
             text_color="#000000", corner_radius=8, command=self._start_monitor,
         )
@@ -969,7 +969,7 @@ class App(ctk.CTk):
 
         ctk.CTkLabel(
             oauth_frame,
-            text="Bypasses speed limits. Get from DevTools → Network → api-v2",
+            text="Bypasses speed limits",
             font=("Segoe UI", 10), text_color="#555555",
             anchor="w", justify="left",
         ).pack(anchor="w", padx=15, pady=(2, 8))
@@ -1154,8 +1154,7 @@ class App(ctk.CTk):
         info_items = [
             ("Version", "1.0"),
             ("Engine", "yt-dlp + ffmpeg"),
-            ("Platforms", "SoundCloud, YouTube"),
-            ("Required", "ffmpeg.exe in app folder"),
+            ("Platforms", "SoundCloud"),
         ]
 
         for key, value in info_items:
